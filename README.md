@@ -108,8 +108,7 @@ Generated skills in multimedia arts, including Illustrator, Photoshop, InDesign,
 College of Marin 
 <br>Associates Degree, Business
 <br>SEPT 2006 - DEC 2008,  MARIN COUNTY
-<br>Initiated and implemented comprehensive skill set in contemporary interaction and experiential design (UI / UX) based on design thinking, visual communication, user experience, product design, identity branding, motion graphics, front-end development and technology.
-Attained skills in business, including PowerPoint, MS Office, technical analysis, communication, collaboration, innovation, administrative, vendor management, critical thinking, advertising, forecasting and information technology.
+<br>Attained skills in business, including PowerPoint, MS Office, technical analysis, communication, collaboration, innovation, administrative, vendor management, critical thinking, advertising, forecasting and information technology.
 
 
 ## Contacts
