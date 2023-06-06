@@ -24,9 +24,10 @@ My [Resume](https://github.com/romaoeh/romaoeh/blob/b20ee02834b9f59a1777a5e856b6
     - [Housing Price Factors](https://github.com/romaoeh/Portfolio#Housing-Price-Factors)
     - [Lariat Car Rental](https://github.com/romaoeh/Portfolio#Lariat-Car-Rental)
   - SQL
-    - [Department of Education Data Exploration](https://github.com/romaoeh/Dept-EDU-SQL/tree/950a09f198f9ba0bc400aaa9c3ba65bf1abc4ac3)
-    - [Product Purchase Querying](https://github.com/romaoeh/Product-Purchase-SQL/tree/9355a5ed1241e406559cbfcc756a845b374a84e6)
-    -
+    - [Department of Education Data Exploration](https://github.com/romaoeh/Portfolio/#department-of-education-data-exploration)
+    - [Product Purchase Querying](https://github.com/romaoeh/Portfolio#product-purchase-querying)
+    - [House Prices Data](https://github.com/romaoeh/Portfolio#house-prices-data)
+    - [Pet Salon Transactions](https://github.com/romaoeh/Portfolio/#pet-salon-transactions)
   - Tableau
   - Python
 
