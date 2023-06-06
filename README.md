@@ -91,7 +91,7 @@ My [Resume](https://github.com/romaoeh/romaoeh/blob/b20ee02834b9f59a1777a5e856b6
   
 
 ### House Prices Data
- **Source** [House Prices Data](https://github.com/romaoeh/HousePricesData/tree/02cf1c180cb48dd07742e877b578fc2305c8b4e8)
+ **Source** [House Prices Data](https://github.com/romaoeh/HousePricesData)
  
  **Objective:**
 
@@ -103,7 +103,7 @@ My [Resume](https://github.com/romaoeh/romaoeh/blob/b20ee02834b9f59a1777a5e856b6
   
   
 ### Pet Salon Transactions
- **Source** [Pet Salon Transactions](https://github.com/romaoeh/PetSalon/tree/31e8014ad984820552f13c20bd0c13ee948587c4)
+ **Source** [Pet Salon Transactions](https://github.com/romaoeh/PetSalon)
  
  **Objective:**
 
