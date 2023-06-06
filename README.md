@@ -26,6 +26,7 @@ My [Resume](https://github.com/romaoeh/romaoeh/blob/b20ee02834b9f59a1777a5e856b6
   - SQL
     - [Department of Education Data Exploration](https://github.com/romaoeh/Dept-EDU-SQL/tree/950a09f198f9ba0bc400aaa9c3ba65bf1abc4ac3)
     - [Product Purchase Querying](https://github.com/romaoeh/Product-Purchase-SQL/tree/9355a5ed1241e406559cbfcc756a845b374a84e6)
+    -
   - Tableau
   - Python
 
@@ -78,6 +79,17 @@ My [Resume](https://github.com/romaoeh/romaoeh/blob/b20ee02834b9f59a1777a5e856b6
 
 ### Product Purchase Querying
  **Source** [Product Purchase SQL](https://github.com/romaoeh/Product-Purchase-SQL/tree/9355a5ed1241e406559cbfcc756a845b374a84e6)
+ 
+ **Objective:**
+
+ **Description:**
+
+ **Skills:**
+
+ **Technology:** MySQL, PostgreSQL, Qualified
+  
+### Pet Salon Transactions
+ **Source** [Pet Salon Transactions](https://github.com/romaoeh/PetSalon/tree/31e8014ad984820552f13c20bd0c13ee948587c4)
  
  **Objective:**
 
