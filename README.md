@@ -43,46 +43,46 @@ My [Resume](https://github.com/romaoeh/romaoeh/blob/b20ee02834b9f59a1777a5e856b6
   **Source:** [WHR Analysis](https://github.com/romaoeh/WHR/tree/a75b496a72fd80399c5349793b105847f85ae1b3)
 
 **Objective:**
-  Find what factors contribute most to the Happiness Score across different countries. Which countries are the happiest versus which are the most unhappy? 
-  Is there a relationship between GDP Per Capita and the Happiness Score? Can money, in fact, buy happiness?
-  Is there a correlation between Perceptions of Corruption and Confidence in National Government? Do the injustices of corruption lower a society’s political trust?
+<br>  Find what factors contribute most to the Happiness Score across different countries. Which countries are the happiest versus which are the most unhappy? 
+<br>  Is there a relationship between GDP Per Capita and the Happiness Score? Can money, in fact, buy happiness?
+<br>  Is there a correlation between Perceptions of Corruption and Confidence in National Government? Do the injustices of corruption lower a society’s political trust?
  
  **Description:**
- The dataset is a publication of the Sustainable Development Solutions Network and contains several predictors with ratings of their level of perceived happiness from each country globally. 
+<br> The dataset is a publication of the Sustainable Development Solutions Network and contains several predictors with ratings of their level of perceived happiness from each country globally. 
 
  **Skills:**
-  data loading, data cleaning and preprocessing, exploratory data analysis, correlation matrices, hypothesis testing, data visualization
+<br>  data loading, data cleaning and preprocessing, exploratory data analysis, correlation matrices, hypothesis testing, data visualization
  **Technology:**
-  Python, Pandas, NumPy, Seaborn, Matplotlib, SciPy, Powerpoint, Excel, Google Docs, Jupyter Notebook
+<br>  Python, Pandas, NumPy, Seaborn, Matplotlib, SciPy, Powerpoint, Excel, Google Docs, Jupyter Notebook
 
  **Results:**
- The Top 10 Countries with the highest Happiness Scores and GDP are Finland, Denmark, Israel, Iceland, Sweden, Norway, Switzerland, Netherlands, New Zealand, and Australia.
+<br> The Top 10 Countries with the highest Happiness Scores and GDP are Finland, Denmark, Israel, Iceland, Sweden, Norway, Switzerland, Netherlands, New Zealand, and Australia.
 
-  The Bottom 10 Countries with the lowest Happiness Scores and GDP are Egypt, Jordan, Sierra Leone, Tanzania, Malawi, India, Zimbabwe, Zambia, Afghanistan, and Lebanon.
+<br>  The Bottom 10 Countries with the lowest Happiness Scores and GDP are Egypt, Jordan, Sierra Leone, Tanzania, Malawi, India, Zimbabwe, Zambia, Afghanistan, and Lebanon.
 
-  There is an overall correlation that suggests happiness increases in countries with higher GDP Per Capita's.
+<br>  There is an overall correlation that suggests happiness increases in countries with higher GDP Per Capita's.
 
-  There is an overall correlation that suggests when a country has more corruption, their confidence in the national government also decreases. This also suggests a decrease in happiness.
+<br>  There is an overall correlation that suggests when a country has more corruption, their confidence in the national government also decreases. This also suggests a decrease in happiness.
  
 ### Housing Price Factors
  **Source:** [Housing Price Investments](https://github.com/romaoeh/Housing-Price-Investments/tree/6bba63aad6c7e54100d3449bc8ebcd799cd1a2a4)
 
  **Objective:**
-  The objective of this project is to provide data-driven insights to my client, an investment bank, on the factors that drive home prices.
+<br>  The objective of this project is to provide data-driven insights to my client, an investment bank, on the factors that drive home prices.
 
-  By analyzing the housing prices data, I aim to identify the most important variables that impact home prices, so that my client can make informed decisions on how to allocate investment dollars into mortgage-backed securities.
+<br>  By analyzing the housing prices data, I aim to identify the most important variables that impact home prices, so that my client can make informed decisions on how to allocate investment dollars into mortgage-backed securities.
 
  **Description:**
-  Analysis of housing prices data as part of a Thinkful Data Analytics case study for a financial institution. The purpose of this analysis was to gain insights into home buyers purchase trends and discover how my client should allocate dollars earmarked for investment into mortgage-backed securities.
+<br>  Analysis of housing prices data as part of a Thinkful Data Analytics case study for a financial institution. The purpose of this analysis was to gain insights into home buyers purchase trends and discover how my client should allocate dollars earmarked for investment into mortgage-backed securities.
 
  **Skills:**
-   data cleaning, data analysis, hypothesis testing, descriptive statistics, A/B testing with T-Tests, PivotTables, PivotCharts, data visualization
+<br>   data cleaning, data analysis, hypothesis testing, descriptive statistics, A/B testing with T-Tests, PivotTables, PivotCharts, data visualization
 
  **Technology:**
-  Excel, Google Docs, PowerPoint
+<br>  Excel, Google Docs, PowerPoint
   
  **Results:**
-Through the analysis of the housing prices data, I have identified several key factors that drive residential home sale prices. By incorporating my findings and recommendations into the allocation of investment dollars into mortgage-backed securities, my client can enhance the chances of making profitable investment decisions based on the factors driving home prices in the market.
+<br>  Through the analysis of the housing prices data, I have identified several key factors that drive residential home sale prices. By incorporating my findings and recommendations into the allocation of investment dollars into mortgage-backed securities, my client can enhance the chances of making profitable investment decisions based on the factors driving home prices in the market.
 
 ### Lariat Car Rental
  **Source**
