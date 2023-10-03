@@ -40,7 +40,7 @@ My [Resume](https://github.com/romaoeh/romaoeh/blob/b20ee02834b9f59a1777a5e856b6
 ## Portfolio Projects
 
 ### World Happiness Report Analysis
-  **Source:** [WHR Analysis](https://github.com/romaoeh/WHR/tree/a75b496a72fd80399c5349793b105847f85ae1b3)
+**Source:** [WHR Analysis](https://github.com/romaoeh/WHR/tree/a75b496a72fd80399c5349793b105847f85ae1b3)
 
 **Objective:**
 <br>  Find what factors contribute most to the Happiness Score across different countries. Which countries are the happiest versus which are the most unhappy? 
