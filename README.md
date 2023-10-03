@@ -79,13 +79,13 @@ My [Resume](https://github.com/romaoeh/romaoeh/blob/b20ee02834b9f59a1777a5e856b6
 <br>   data cleaning, data analysis, hypothesis testing, descriptive statistics, A/B testing with T-Tests, PivotTables, PivotCharts, data visualization
 
  **Technology:**
-<br>  Excel, Google Docs, PowerPoint
+<br>  Excel, Google Docs, PowerPoint, Tableau
   
  **Results:**
 <br>  Through the analysis of the housing prices data, I have identified several key factors that drive residential home sale prices. By incorporating my findings and recommendations into the allocation of investment dollars into mortgage-backed securities, my client can enhance the chances of making profitable investment decisions based on the factors driving home prices in the market.
 
 ### Lariat Car Rental
- **Source**
+ **Source:** [Lariat Business Analysis](https://github.com/romaoeh/LariatBusinessAnalysis/tree/efed574b45a153ac56774aa6c95e4d2a1282205f)
  
  **Objective:**
 
@@ -93,9 +93,8 @@ My [Resume](https://github.com/romaoeh/romaoeh/blob/b20ee02834b9f59a1777a5e856b6
 
  **Skills:**
 
- **Technology:**
+ **Technology:** Excel, Google Docs, PowerPoint
 
- **Results:**
  
 
  ### Department of Education Data Exploration
